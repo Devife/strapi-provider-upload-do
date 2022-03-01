@@ -1,4 +1,4 @@
-# Strapi Upload Provider for Digital Ocean Spaces
+# Strapi V3 Upload Provider for Digital Ocean Spaces
 - This provider is a fork of [AdamZikmund's](https://github.com/AdamZikmund) [strapi upload provider](https://github.com/AdamZikmund/strapi-provider-upload-digitalocean) for Digital Ocean spaces.
 
 This provider will upload to the space using the AWS S3 API.
